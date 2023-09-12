@@ -1,13 +1,15 @@
+import CalculatorInput from './CalculatorInput';
+
 export default function Calculator() {
   return (
     <>
       <div className="container">
-        <input type="text" name="calc" className="input" />
+        <CalculatorInput />
         <div className="itemsContainer">
           <button type="button" className="items">+/-</button>
           <button type="button" className="items">%</button>
           <button type="button" className="items">AC</button>
-          <button type="button" className="items orange">/</button>
+          <button type="button" className="items orange">÷</button>
           <button type="button" className="items">7</button>
           <button type="button" className="items">8</button>
           <button type="button" className="items">9</button>
