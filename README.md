@@ -49,6 +49,8 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+- A fully working calculator app that performs all basic mathematical calculations
+- A quote section that displays Api-fetched success quotes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,6 +121,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+- More styling to enhance user experience
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
