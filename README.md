@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Click Here]()
+- [Click Here](https://jkanyi-web.github.io/math-magicians-redo-cra/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
