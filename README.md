@@ -6,7 +6,6 @@
   - [Learning objectives ](#learning-objectives-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
   - [Test](#test)
     - [Prerequisites](#prerequisites)
@@ -50,14 +49,6 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Click Here](https://jkanyi-web.github.io/math-magicians-redo-cra/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
