@@ -6,7 +6,6 @@
   - [Learning objectives ](#learning-objectives-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
   - [Test](#test)
     - [Prerequisites](#prerequisites)
@@ -50,14 +49,8 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Click Here]()
+- A fully working calculator app that performs all basic mathematical calculations
+- A quote section that displays Api-fetched success quotes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +121,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- Additional styling to enhance user experience
+- More styling to enhance user experience
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
