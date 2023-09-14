@@ -56,7 +56,7 @@
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name="getting-started">https://jkanyi-web.github.io/math-magicians-redo-cra/</a>
 
 You can have a copy of this repo run on your local machine by just directly cloning it.
 
