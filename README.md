@@ -63,7 +63,7 @@
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name="getting-started">https://jkanyi-web.github.io/math-magicians-redo-cra/</a>
 
 You can have a copy of this repo run on your local machine by just directly cloning it.
 
@@ -128,6 +128,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+- Additional styling to enhance user experience
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
