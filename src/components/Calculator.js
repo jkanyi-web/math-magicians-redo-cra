@@ -17,7 +17,6 @@ export default function Calculator() {
       <input
         type="text"
         className="input"
-        readOnly
         value={state.next || state.total || '0'}
       />
       <div className="itemsContainer">
